@@ -5,7 +5,7 @@ This project provides a clean and scalable pipeline for fine-tuning multiple Ope
 The script supports training several models sequentially on the same dataset and saving each fine-tuned model separately.
 
 
-## ✨ Features
+## Features
 
 - Fine-tune multiple Whisper models in one run
 - Shared dataset split for fair comparison
