@@ -1,6 +1,6 @@
 # Multi-Model Whisper Fine-Tuning Pipeline
 
-This project provides a clean and scalable pipeline for fine-tuning multiple OpenAI Whisper models on custom speech datasets using Hugging Face Transformers.
+This project provides a clean and scalable pipeline for fine-tuning and inference multiple OpenAI Whisper models on custom speech datasets using Hugging Face Transformers.
 
 The script supports training several models sequentially on the same dataset and saving each fine-tuned model separately.
 
